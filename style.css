@@ -47,3 +47,23 @@ img {
 .hover{
     background-color: red;
 }
+
+.restauraunt{
+    background-color: rgba(25, 0, 255, 0.829);
+    display: flex;
+    justify-content: center;
+}
+.restauraunt-image{
+    height: 150px;
+    width: 700px;
+}
+
+.head{
+    background-color: orange;
+}
+
+.head-list{
+    background-color: aqua;
+}
+
+
